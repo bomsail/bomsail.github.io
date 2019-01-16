@@ -1,0 +1,121 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+}
+
+nav {
+    font-family: 'Raleway', sans-serif;
+}
+
+
+#burgee {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.square {
+    width: 302;
+}
+/*
+.nav.navbar-nav {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+*/
+#navigation {
+    width: 100px;
+}
+
+.line {
+    margin-bottom: 0px;
+}
+
+
+.center {
+    text-align: center;
+}
+
+.title {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.bodyText {
+    padding-top: 60px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 60px;
+}
+
+.nav-hover:hover {
+    background-color: rgb(242, 242, 242);
+}
+
+.nav-hover:active {
+    background-color: rgb(242, 242, 242);
+}
+
+.pageTitle {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.nav-item {
+    font-size: 14px;
+    color: black;
+}
+
+.pastLeft {
+    float: left;
+    margin-left: 20%;
+    margin-bottom: 20px;
+    height: 302px;
+    width: 302px;
+}
+
+.pastRight {
+    margin-right: 20%;
+    margin-top: 20px;
+    float: right;
+    text-align: center;
+    font-size: 20px;
+}
+
+.pastLeft2 {
+    margin-left: 20%;
+    margin-top: 20px;
+    float: left;
+    text-align: center;
+    font-size: 20px;
+}
+
+.pastRight2 {
+    float: right;
+    margin-right: 20%;
+    margin-bottom: 20px;
+    height: 302px;
+    width: 302px;
+}
+
+.futureTop {
+    margin-left: 20%;
+    float: left;
+}
+
+.futureBottom {
+    margin-right: 20%;
+    float: right;
+}
+
+.jumbotron {
+    background-image: url(images/Sail_uiuc_slim.jpg);
+    background-size: cover;
+    height: 35%;
+    text-align: center;
+}
